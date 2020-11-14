@@ -1374,3 +1374,21 @@ footer .credits {
 footer .credits a {
   color: #fff;
 }
+
+.about-grids a {
+  padding: 4px 12px;
+  color: #fff;
+  background: #268eff;
+  border: 2px solid #007bff;
+  font-weight: 600;
+  font-size: 15px;
+  letter-spacing: 1px;
+  display: inline-block;
+  border-radius: 35px;
+}
+
+.about-grids a:hover {
+  background: #ffffff;
+  border: 2px solid #c3c3c4;  
+  color: #000000;
+}
